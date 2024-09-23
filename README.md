@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Priya Choudhary</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
+<img align = "right" alt = "coding" width = "400" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT87rx0G3HVrfSA34zgnIy_Roo_VGmGhC9Xjg&s">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priya9793&label=Profile%20views&color=0e75b6&style=flat" alt="priya9793" /> </p>
+
 - 🔭 I’m currently doing an internship **Mern Stack**
 
 - 📫 How to reach me **prpriya9793@gmail.com**
